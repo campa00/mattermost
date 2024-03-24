@@ -3832,7 +3832,7 @@
   "intro_messages.noCreator": "ここは {name} チャンネルのトップです。{date}に作成されました。",
   "intro_messages.noCreatorPrivate": "ここは非公開チャンネル {name} のトップです。{date}に作成されました。",
   "intro_messages.notificationPreferences": "通知の設定",
-  "intro_messages.offTopic": "ここは{display_name}の始まりです。仕事とは関係のない会話のためのチャンネルです。",
+  "intro_messages.offTopic": "ここは{display_name}の始まりです。仕事とは関係のない会話のためのチャンネルです。!!",
   "intro_messages.onlyInvited": " 招待されたメンバーだけがこの非公開チャンネルを見ることができます。",
   "intro_messages.purpose": " このチャンネルの目的: {purpose}",
   "intro_messages.purposePrivate": " この非公開チャンネルの目的: {purpose}",
